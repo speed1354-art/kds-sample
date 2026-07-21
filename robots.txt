@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://speed1354-art.github.io/kds-sample/sitemap.xml
